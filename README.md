@@ -23,9 +23,9 @@ The dataset consists of:
 - **solvation_test.csv**: Contains test data for solute-solvent pairs.
 - **mol_prop.csv**: Provides molecular properties (molecular weight, dipole moment, polarizability) for feature generation.
 
-Solution Structure
+## Solution Structure
 
-SolvaNET.ipynb: The jupyter notebook that includes all code
+SolvaNET.ipynb: The jupyter notebook that includes all code.
 README.md: This file.
 
 ## Conclusion
