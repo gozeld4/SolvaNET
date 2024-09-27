@@ -23,6 +23,11 @@ The dataset consists of:
 - **solvation_test.csv**: Contains test data for solute-solvent pairs.
 - **mol_prop.csv**: Provides molecular properties (molecular weight, dipole moment, polarizability) for feature generation.
 
+Solution Structure
+
+SolvaNET.ipynb: The jupyter notebook that includes all code
+README.md: This file.
+
 ## Conclusion
 
 The best performing model was gradient boosting model that includes RDkit and Morgan finerprint data
