@@ -25,8 +25,11 @@ The dataset consists of:
 
 ## Solution Structure
 
-SolvaNET.ipynb/: The jupyter notebook that includes all code.
-README.md/: This file.
+SolvaNET.ipynb: The jupyter notebook that includes all code.
+
+README.md: This file.
+
+
 
 ## Conclusion
 
